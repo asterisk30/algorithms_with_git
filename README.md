@@ -54,6 +54,7 @@ Happy Open Sourcing!
 - [Merge Sort](algorithms/Sorting/Merge_sort)
 - [Quick Sort](algorithms/Sorting/quick_sort)
 - [Selection Sort](algorithms/Sorting/selection_sort)
+- [Tree Sort](algorithms/Sorting/tree_sort)
 
 ### Searching
 
