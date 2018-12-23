@@ -1,5 +1,4 @@
 // C++ program to implement Tree Sort
-/* Tree sort is a sorting algorithm that is based on Binary Search Tree data structure. Inorder Traversal of BST gives sorted elements.*/ 
 /* Average Case Time Complexity : O(nlogn) */
 /* Worst Case Time Complexity : O( n^2) */
 
